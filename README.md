@@ -21,27 +21,8 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  </a> 
-  <a href="https://isocpp.org/" target="_blank">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
-  </a> 
- <a href="https://www.iso.org/standard/74528.html" target="_blank">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
-  </a> 
-
-
-  <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  </a> 
-
-
   <a href="https://tailwindcss.com/" target="_blank">
     <img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"  />
-  </a> 
-  <a href="https://nextjs.org/" target="_blank">
-    <img  src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"  />
   </a> 
 
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
@@ -50,44 +31,10 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://getbootstrap.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a> 
-   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PostMan" />
   </a>
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-
 </div>
-
-<!-- Stats -->
-<br/>
-<table><tr>
-  <td valign="center" width="50%">
-  <div align="center">  
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-Riahabh&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-Riahabh&icon_color=CCCCCC&text_bold=false&hide_border=true&show_icons=true&card_width=50&line_height=26&theme=react&show_icons=true&hide_title=true&bg_color=0D1116">
-      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-Riahabh&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
-    </picture>
-</div></td>
-<td valign="center" width="50%"><div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=i-m-Riahabh&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=i-m-Riahabh&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=0D1116"> 
-      <img alt="2" src="https://streak-stats.demolab.com/?user=i-m-Riahabh&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
-  </picture>
-  </div>
-</td>
-</tr></table>
-
-
 
 
