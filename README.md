@@ -34,6 +34,9 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PostMan" />
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-ea2868?style=for-the-badge&logo=nestjs&logoColor=white" alt="PostMan" />
+  </a>
 
 </div>
 
