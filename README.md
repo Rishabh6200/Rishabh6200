@@ -21,6 +21,9 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/mongodb-%2313aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"  />
   </a> 
